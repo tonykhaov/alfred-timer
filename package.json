@@ -1,0 +1,9 @@
+{
+  "name": "user.workflow.443F22E2-D638-4340-AC94-BBE33E136966",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.10.0"
+  }
+}
